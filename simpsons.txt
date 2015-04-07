@@ -2,3 +2,5 @@ Homer
 Marge
 Lisa
 Bart
+Mr. Burns
+Smithers
